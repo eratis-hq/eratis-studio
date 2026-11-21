@@ -3,7 +3,7 @@
 **ERATIS — Interactive 3D Identity Studio** is an open-source, zero-bundler 3D identity showcase, customizer, and real-time Web Audio visualizer built with vanilla ES6 Modules and **Three.js r128**.
 
 Create metallic 3D typography or flat alpha-preserving logo compositions inside a monochrome deep-space environment, drive lighting and motion with live FFT audio analysis, save validated scene presets, and export up to 4K wallpapers, transparent PNGs, or 60 FPS WebM video captures directly in the browser.
-
+**Live Demo:** [eratis-hq.github.io/eratis-studio](https://eratis-hq.github.io/eratis-studio/)
 ![ERATIS Studio — Default Liquid Chrome 3D Emblem and Bottom Control Dock](./public/screenshots/eratis-studio-main.png)
 
 ---
